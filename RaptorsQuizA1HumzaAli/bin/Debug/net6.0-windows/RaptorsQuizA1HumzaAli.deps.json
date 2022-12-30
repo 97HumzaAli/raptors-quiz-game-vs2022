@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RaptorsQuizA1HumzaAli/1.0.0": {
+        "runtime": {
+          "RaptorsQuizA1HumzaAli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RaptorsQuizA1HumzaAli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
